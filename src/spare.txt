@@ -1,0 +1,7 @@
+ALTERNATIVE METHODS FOR CLASSLINK REDIRECT
+
+try:
+    driver.find_element_by_xpath("//application[@aria-label='Schoology']").click()
+
+except:
+    driver.execute_script("document.getElementsByClassName('cl-app app-margin ng-star-inserted')[0].click()")
