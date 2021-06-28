@@ -9,8 +9,8 @@ from selenium.webdriver.support import expected_conditions as EC
 
 #Save login credientials and targetted urls
 PATH = "C:\Program Files (x86)\chromedriver.exe"
-USERNAME = 's461993'
-PASSWORD = 'incrediblelime'
+USERNAME = <enter username here>
+PASSWORD =  <enter password here>
 LOGIN_URL = 'https://launchpad.classlink.com/rrisd'
 
 #Add optimize and set headless chrome surfing
