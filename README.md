@@ -1,11 +1,10 @@
-update - it failed cuz schoology is dumb and school is over
-
-
-# Schoology Grade Updater
+## Schoology Grade Updater
 
 This is a webscraping project with Python that will (hopefully) be calibrated to pull up your Schoology grade report at a certain time every day. This script is powered using Python Selenium. The automation can be run headless in Chromedriver, but it will navigate through the pages of an RRISD based login system. This means that it will go through classlink and automate the button-pressing to navigate eventually to the grades page in Schoology. 
 
 This project is a test for me to work with Python Selenium. **Still a work in progress right now**. I have not tested it much, the ending is not complete, and is very clunky as of now in terms of running development. 
+
+# UPDATE - IT FAILED LOL
 
 ## Dependencies
 
